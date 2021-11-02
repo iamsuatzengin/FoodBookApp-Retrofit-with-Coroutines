@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FoodBookApp</string>
+    
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cd_food_image">food image</string>
+    <string name="food_name">Yemek ismi</string>
+    <string name="calorie">Kalori</string>
+    <string name="carbohydrate">Karbonhidrat</string>
+    <string name="protein">Protein</string>
+</resources>
