@@ -7,3 +7,5 @@
 ### 4) LiveData
 ### 5) RecyclerView
 ### 6) Picasso 
+
+ api link : " https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/besinler.json "
